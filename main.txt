@@ -1,0 +1,5 @@
+
+
+git add - отслеживает наш файл в репазиторий
+git commit -m "all files were added to the project" - добавление в проект всех файлов
+git log - проверка на создателя
